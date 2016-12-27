@@ -1,0 +1,12 @@
+After Normalization
+AUC Loss: 0.235662880213
+Log Loss: 0.655585665478
+Sq Loss: 0.23133433174
+After Min-Max Scaling
+AUC Loss: 0.128112540435
+Log Loss: 0.516077693014
+Sq Loss: 0.168341266936
+After Standardization
+AUC Loss: 0.179342511096
+Log Loss: nan
+Sq Loss: 0.233959528337
